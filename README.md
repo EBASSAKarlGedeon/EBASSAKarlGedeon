@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Ebassa Carl Gideon
+# 👋 Hey, I'm EBASSA Karl Gédéon
 
 I'm a future Electrical & IT Engineer at TU Dortmund, passionate about AI, automation, and smart tech. I love building real-world tools using Python, exploring drawing and design, and developing creative projects like game mods and screen translators.
 
